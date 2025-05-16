@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/9bdf1b4e-44a1-421a-8a2c-5727a4bb4f9a](https://github.com/axelmedjber/axelmedjber.github.io
+**URL**: https://github.com/axelmedjber/axelmedjber.github.io
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9bdf1b4e-44a1-421a-8a2c-5727a4bb4f9a) and start prompting.
+Simply visit the [Fashion Connector](https://github.com/axelmedjber/axelmedjber.github.io)) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
